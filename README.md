@@ -1,4 +1,3 @@
-# SITEMA-DE-CONTROLE-DE-TEMPERATURA-NO-TINKERCAD
 # Sistema de Controle de Temperatura para Piscina
 
 Este projeto simula um sistema de controle de temperatura para uma piscina utilizando componentes eletrônicos no Tinkercad. O sistema permite o ajuste manual da temperatura da água, monitorando e ajustando a temperatura com indicadores de LED e um buzzer para alertas de sobreaquecimento.
